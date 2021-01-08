@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/spellcheck.github.io/static/css/main.58106b4a.chunk.css",
+    "main.js": "/spellcheck.github.io/static/js/main.3a43731e.chunk.js",
+    "main.js.map": "/spellcheck.github.io/static/js/main.3a43731e.chunk.js.map",
+    "runtime-main.js": "/spellcheck.github.io/static/js/runtime-main.e6ff3274.js",
+    "runtime-main.js.map": "/spellcheck.github.io/static/js/runtime-main.e6ff3274.js.map",
+    "static/js/2.148ee5b9.chunk.js": "/spellcheck.github.io/static/js/2.148ee5b9.chunk.js",
+    "static/js/2.148ee5b9.chunk.js.map": "/spellcheck.github.io/static/js/2.148ee5b9.chunk.js.map",
+    "static/js/3.050b9331.chunk.js": "/spellcheck.github.io/static/js/3.050b9331.chunk.js",
+    "static/js/3.050b9331.chunk.js.map": "/spellcheck.github.io/static/js/3.050b9331.chunk.js.map",
+    "index.html": "/spellcheck.github.io/index.html",
+    "static/css/main.58106b4a.chunk.css.map": "/spellcheck.github.io/static/css/main.58106b4a.chunk.css.map",
+    "static/js/2.148ee5b9.chunk.js.LICENSE.txt": "/spellcheck.github.io/static/js/2.148ee5b9.chunk.js.LICENSE.txt",
+    "static/media/x-button.37e85089.png": "/spellcheck.github.io/static/media/x-button.37e85089.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6ff3274.js",
+    "static/js/2.148ee5b9.chunk.js",
+    "static/css/main.58106b4a.chunk.css",
+    "static/js/main.3a43731e.chunk.js"
+  ]
+}
